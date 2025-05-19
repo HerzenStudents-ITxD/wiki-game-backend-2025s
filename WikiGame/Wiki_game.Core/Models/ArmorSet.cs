@@ -8,11 +8,11 @@ namespace WikiGame.Core.Models;
 
 public class ArmorSet
 {
-    public ArmorSet(string setName)
+    private ArmorSet(string setName)
     {
         SetName = setName;
     }
 
     public Guid SetId { get; set; }
-    public string SetName { get; set; }
+    public string SetName { get; set; } = string.Empty;
 }

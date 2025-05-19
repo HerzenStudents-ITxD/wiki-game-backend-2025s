@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\WikiGame.Application\WikiGame.Application.csproj" />
     <ProjectReference Include="..\WikiGame.DataAccess\WikiGame.DataAccess.csproj" />
   </ItemGroup>
 

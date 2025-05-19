@@ -8,19 +8,38 @@ namespace WikiGame.Core.Models;
 
 public class Npc
 {
-    public Npc(string name, string stats, bool is_enemy, bool is_boss, string description)
+    private Npc(Guid id, string name, string stats, bool isEnemy, bool isBoss, string description)
     {
-        NpcName = name;
-        NpcStats = stats;
-        NpcIsEnemy = is_enemy;
-        NpcIsBoss = is_boss;
-        NpcDescription = description;
+        Id = id;
+        Name = name;
+        Stats = stats;
+        IsEnemy = isEnemy;
+        IsBoss = isBoss;
+        Description = description;
     }
 
-    public Guid NpcId { get; set; }
-    public string NpcName { get; set; }
-    public string NpcStats { get; set; }
-    public bool NpcIsEnemy { get; set; }
-    public bool NpcIsBoss { get; set; }
-    public string NpcDescription { get; set; }
+    public Guid Id { get; }
+    public string Name { get; } = string.Empty;
+    public string Stats { get; } = string.Empty;
+    public bool IsEnemy { get; } = false;
+    public bool IsBoss { get; } = false;
+    public string Description { get; } = string.Empty;
+
+    public const string TableName = "Npcs";
+
+    //public ICollection<LocationArmor> LocationsArmors { get; set; } = new List<LocationArmor>();
+
+    public static (Npc Npc, string Error) Create(Guid id, string name, string stats, bool isEnemy, bool isBoss, string description)
+    {
+        var error = string.Empty;
+
+        if (string.IsNullOrEmpty(name))
+        {
+            error = "Title can not be empty";
+        }
+
+        var npc = new Npc(id, name, stats, isEnemy, isBoss, description);
+
+        return (npc, error);
+    }
 }

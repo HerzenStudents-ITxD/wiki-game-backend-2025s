@@ -1,36 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\",
+  "WorkspaceRootPath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0C8AD97C-A950-4CAB-8283-58F581AA12D7}|..\\Wiki_game.Core\\WikiGame.Core.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wiki_game.core\\models\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C8AD97C-A950-4CAB-8283-58F581AA12D7}|..\\Wiki_game.Core\\WikiGame.Core.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wiki_game.core\\models\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B4E6DAC0-CCDB-44AA-B78F-A39B607F3DAF}|..\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wikigame.dataaccess\\repositories\\weaponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4E6DAC0-CCDB-44AA-B78F-A39B607F3DAF}|..\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wikigame.dataaccess\\wikidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4E6DAC0-CCDB-44AA-B78F-A39B607F3DAF}|..\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wikigame.dataaccess\\repositories\\armorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C8AD97C-A950-4CAB-8283-58F581AA12D7}|..\\Wiki_game.Core\\WikiGame.Core.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game.core\\models\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C8AD97C-A950-4CAB-8283-58F581AA12D7}|..\\Wiki_game.Core\\WikiGame.Core.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wiki_game.core\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\controllers\\armorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:controllers\\armorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\contracts\\armors\\createarmorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:contracts\\armors\\createarmorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|c:\\users\\kukli\\desktop\\cs projects\\backend\\wikigame\\wiki_game\\contracts\\armors\\armordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97A3C1EE-F0E7-4301-8623-AAC2523373FF}|WikiGame.API.csproj|solutionrelative:contracts\\armors\\armordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C8AD97C-A950-4CAB-8283-58F581AA12D7}|..\\Wiki_game.Core\\WikiGame.Core.csproj|c:\\users\\kukli\\desktop\\term_paper\\wiki-game-backend-2025s\\wikigame\\wiki_game.core\\models\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,106 +36,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArmorDto.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Contracts\\Armors\\ArmorDto.cs",
-              "RelativeDocumentMoniker": "Contracts\\Armors\\ArmorDto.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Contracts\\Armors\\ArmorDto.cs",
-              "RelativeToolTip": "Contracts\\Armors\\ArmorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T06:59:03.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Npc.cs",
+              "RelativeDocumentMoniker": "..\\Wiki_game.Core\\Models\\Npc.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Npc.cs",
+              "RelativeToolTip": "..\\Wiki_game.Core\\Models\\Npc.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T00:13:23.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateArmorRequest.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Contracts\\Armors\\CreateArmorRequest.cs",
-              "RelativeDocumentMoniker": "Contracts\\Armors\\CreateArmorRequest.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Contracts\\Armors\\CreateArmorRequest.cs",
-              "RelativeToolTip": "Contracts\\Armors\\CreateArmorRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:13:24.416Z",
+              "WhenOpened": "2025-05-19T21:08:03.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T00:20:27.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArmorController.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Controllers\\ArmorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArmorController.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\Controllers\\ArmorController.cs",
-              "RelativeToolTip": "Controllers\\ArmorController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAAsAAAAAAAAAA==",
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Weapon.cs",
+              "RelativeDocumentMoniker": "..\\Wiki_game.Core\\Models\\Weapon.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Weapon.cs",
+              "RelativeToolTip": "..\\Wiki_game.Core\\Models\\Weapon.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T00:13:34.323Z",
+              "WhenOpened": "2025-05-19T21:07:48.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WikiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\WikiGame.DataAccess\\WikiDbContext.cs",
-              "RelativeDocumentMoniker": "..\\WikiGame.DataAccess\\WikiDbContext.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\WikiGame.DataAccess\\WikiDbContext.cs",
-              "RelativeToolTip": "..\\WikiGame.DataAccess\\WikiDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Title": "ArmorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\Repositories\\ArmorRepository.cs",
+              "RelativeDocumentMoniker": "..\\WikiGame.DataAccess\\Repositories\\ArmorRepository.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\Repositories\\ArmorRepository.cs",
+              "RelativeToolTip": "..\\WikiGame.DataAccess\\Repositories\\ArmorRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T00:13:15.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Armor.cs",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game.Core\\Models\\Armor.cs",
-              "RelativeDocumentMoniker": "..\\Wiki_game.Core\\Models\\Armor.cs",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game.Core\\Models\\Armor.cs",
-              "RelativeToolTip": "..\\Wiki_game.Core\\Models\\Armor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T00:12:44.688Z",
+              "WhenOpened": "2025-05-19T21:04:21.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\kukli\\Desktop\\CS projects\\Backend\\WikiGame\\Wiki_game\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
+              "Title": "WeaponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\Repositories\\WeaponRepository.cs",
+              "RelativeDocumentMoniker": "..\\WikiGame.DataAccess\\Repositories\\WeaponRepository.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\Repositories\\WeaponRepository.cs",
+              "RelativeToolTip": "..\\WikiGame.DataAccess\\Repositories\\WeaponRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:04:04.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Wiki_game.Core\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Item.cs",
+              "RelativeToolTip": "..\\Wiki_game.Core\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-11T07:17:23.25Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T21:01:43.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Armor.cs",
+              "RelativeDocumentMoniker": "..\\Wiki_game.Core\\Models\\Armor.cs",
+              "ToolTip": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game.Core\\Models\\Armor.cs",
+              "RelativeToolTip": "..\\Wiki_game.Core\\Models\\Armor.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:16:52.299Z",
               "EditorCaption": ""
             }
           ]

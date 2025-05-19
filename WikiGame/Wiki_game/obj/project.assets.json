@@ -1689,6 +1689,20 @@
           }
         }
       },
+      "WikiGame.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WikiGame.Core": "1.0.0",
+          "WikiGame.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WikiGame.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WikiGame.Application.dll": {}
+        }
+      },
       "WikiGame.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -5177,6 +5191,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "WikiGame.Application/1.0.0": {
+      "type": "project",
+      "path": "../WikiGame.Application/WikiGame.Application.csproj",
+      "msbuildProject": "../WikiGame.Application/WikiGame.Application.csproj"
+    },
     "WikiGame.Core/1.0.0": {
       "type": "project",
       "path": "../Wiki_game.Core/WikiGame.Core.csproj",
@@ -5195,6 +5214,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4",
       "Swashbuckle.AspNetCore >= 6.6.2",
+      "WikiGame.Application >= 1.0.0",
       "WikiGame.DataAccess >= 1.0.0"
     ]
   },
@@ -5205,11 +5225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\Wiki_game\\WikiGame.API.csproj",
+      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game\\WikiGame.API.csproj",
       "projectName": "WikiGame.API",
-      "projectPath": "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\Wiki_game\\WikiGame.API.csproj",
+      "projectPath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game\\WikiGame.API.csproj",
       "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\Wiki_game\\obj\\",
+      "outputPath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\Wiki_game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5231,8 +5251,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj"
+            "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.Application\\WikiGame.Application.csproj": {
+              "projectPath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.Application\\WikiGame.Application.csproj"
+            },
+            "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj"
             }
           }
         }

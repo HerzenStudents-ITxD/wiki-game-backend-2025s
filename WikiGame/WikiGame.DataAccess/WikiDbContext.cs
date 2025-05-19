@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WikiGame.Core.Models;
+using WikiGame.DataAccess.Entities;
 
 namespace WikiGame.DataAccess;
 
@@ -24,7 +25,11 @@ public class WikiDbContext : DbContext
     {
     }
 
-    public DbSet<Armor> Armors => Set<Armor>();
+    public DbSet<ArmorEntity> Armors {  get; set; }
+    public DbSet<LocationEntity> Locations {  get; set; }
+    public DbSet<WeaponEntity> Weapons {  get; set; }
+    public DbSet<NpcEntity> Npcs { get; set; }
+    public DbSet<ItemEntity> Items { get; set; }
 
     //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     //{

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/06SEpkvPaA=",
+  "dgSpecHash": "BH/7oX/vXc4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kukli\\Desktop\\term_paper\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\kukli\\Desktop\\term_paper\\wiki-game-backend-2025s\\WikiGame\\WikiGame.DataAccess\\WikiGame.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kukli\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -83,8 +83,8 @@
     "C:\\Users\\kukli\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\kukli\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\kukli\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
     "C:\\Users\\kukli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
   ],
   "logs": []

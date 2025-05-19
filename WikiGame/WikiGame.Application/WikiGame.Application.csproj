@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WikiGame.DataAccess\WikiGame.DataAccess.csproj" />
+    <ProjectReference Include="..\Wiki_game.Core\WikiGame.Core.csproj" />
+  </ItemGroup>
+
+</Project>
